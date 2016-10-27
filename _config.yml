@@ -1,0 +1,15 @@
+# Site settings
+title: Yang Boogle - Y.B.
+email: leoyaboo AT GMAIL DOT COM
+description: # Just drop something that worth remembered
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://leoyaboo.github.io" # the base hostname & protocol for your site
+
+github_username:  leoyaboo
+
+imageurl: "http://leoyaboo.github.io/images"
+# researchid_url: "http://www.researcherid.com/rid/B-6505-2012" # Researcher ID of THOMSON REUTERS
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
